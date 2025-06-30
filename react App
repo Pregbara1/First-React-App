@@ -1,1 +1,16 @@
-rea
+import React from 'react';
+
+function App() {
+  return (
+    <main style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'Arial, sans-serif',  padding: '20px' }}>
+      <section>
+        <h1>Hello World</h1>
+        <p>Welcome to my first React app! Thanks to 3mtt </p>
+      </section>
+    </main>
+  );
+}
+
+export default App;
+
+
